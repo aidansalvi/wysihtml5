@@ -22,7 +22,7 @@ JS_FILES = src/wysihtml5.js \
   src/dom/get_style.js \
   src/dom/has_element_with_tag_name.js \
   src/dom/has_element_with_class_name.js \
-  src/dom/insert.js \
+  src/dom/insert.js \fdsfsfsfsdfsd
   src/dom/insert_css.js \
   src/dom/observe.js \
   src/dom/parse.js \
